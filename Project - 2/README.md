@@ -32,7 +32,7 @@ The report is organized into two main pages:
 ### 📊 Page 1: Sales Overview
 
 <p align="center">
-<img src="Output%20/Page - 1.png" alt="Myntra Sales Overview Dashboard" width="100%">
+<img src="Output/Page%20-%201.png" alt="Myntra Sales Overview Dashboard" width="100%">
 </p>
 
 This page provides a high-level view of sales and order performance through KPI cards and interactive visuals.
