@@ -32,7 +32,7 @@ The report is organized into two main pages:
 ### 📊 Page 1: Sales Overview
 
 <p align="center">
-<img src="Output%20images/Page - 1.png" alt="Myntra Sales Overview Dashboard" width="100%">
+<img src="Output%20/Page - 1.png" alt="Myntra Sales Overview Dashboard" width="100%">
 </p>
 
 This page provides a high-level view of sales and order performance through KPI cards and interactive visuals.
@@ -50,7 +50,7 @@ This page provides a high-level view of sales and order performance through KPI 
 ### 🧩 Page 2: Product Analysis
 
 <p align="center">
-<img src="Output%20images/Page - 2.png" alt="Myntra Product Analysis Dashboard" width="100%">
+<img src="Output%20/Page - 2.png" alt="Myntra Product Analysis Dashboard" width="100%">
 </p>
 
 This page focuses on the product mix, inventory quantities, revenue contribution, and order-status distribution.
