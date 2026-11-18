@@ -50,7 +50,7 @@ This page provides a high-level view of sales and order performance through KPI 
 ### 🧩 Page 2: Product Analysis
 
 <p align="center">
-<img src="Output%20/Page - 2.png" alt="Myntra Product Analysis Dashboard" width="100%">
+<img src="Output/Page%20-%202.png" alt="Myntra Product Analysis Dashboard" width="100%">
 </p>
 
 This page focuses on the product mix, inventory quantities, revenue contribution, and order-status distribution.
